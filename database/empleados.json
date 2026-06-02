@@ -1,0 +1,52 @@
+[
+  {
+    "id_empleado": 1,
+    "nombre": "Maria",
+    "apellido": "Garcia",
+    "legajo": "EMP001",
+    "dias_disponibles": 15,
+    "dias_tomados": 5,
+    "email": "mgarcia@techsoft.com",
+    "id_jefe": 3
+  },
+  {
+    "id_empleado": 2,
+    "nombre": "Carlos",
+    "apellido": "Lopez",
+    "legajo": "EMP002",
+    "dias_disponibles": 1,
+    "dias_tomados": 19,
+    "email": "clopez@techsoft.com",
+    "id_jefe": 3
+  },
+  {
+    "id_empleado": 3,
+    "nombre": "Ana",
+    "apellido": "Martinez",
+    "legajo": "EMP003",
+    "dias_disponibles": 20,
+    "dias_tomados": 0,
+    "email": "amartinez@techsoft.com",
+    "id_jefe": null
+  },
+  {
+    "id_empleado": 4,
+    "nombre": "Pedro",
+    "apellido": "Sanchez",
+    "legajo": "EMP004",
+    "dias_disponibles": 0,
+    "dias_tomados": 20,
+    "email": "psanchez@techsoft.com",
+    "id_jefe": 3
+  },
+  {
+    "id_empleado": 5,
+    "nombre": "Laura",
+    "apellido": "Fernandez",
+    "legajo": "EMP005",
+    "dias_disponibles": 8,
+    "dias_tomados": 12,
+    "email": "lfernandez@techsoft.com",
+    "id_jefe": 3
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id_solicitud": 1,
+    "id_empleado": 2,
+    "fecha_inicio": "10/03/2025",
+    "cantidad_dias": 5,
+    "fecha_fin": "14/03/2025",
+    "estado": "APROBADA",
+    "fecha_solicitud": "2025-02-01 10:00:00",
+    "motivo_rechazo": null
+  },
+  {
+    "id_solicitud": 2,
+    "id_empleado": 2,
+    "fecha_inicio": "10/08/2026",
+    "cantidad_dias": 9,
+    "fecha_fin": "18/08/2026",
+    "estado": "APROBADA",
+    "fecha_solicitud": "2026-06-02 18:08:45.614021",
+    "motivo_rechazo": null
+  }
+]

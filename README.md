@@ -27,6 +27,8 @@ Persistencia mediante archivo Excel.
 
 Ejecución
 Instalar dependencias:
+
 pip install -r requirements.txt
+
 Ejecutar:
 python bot.py
